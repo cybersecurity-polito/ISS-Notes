@@ -27,9 +27,8 @@ See the COPYING file for details.
 - [ ] Chapter 8
 
 
-### In Progress 
-- [ ] Chapter 8
-
+### In Progress
+- nothing atm
 
 ### Done ✓
 - [x] Chapter 1
